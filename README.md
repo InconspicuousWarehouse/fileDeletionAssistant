@@ -4,7 +4,7 @@ Program umożliwia automatyczne planowanie i usuwanie(przenoszenia do kosza) pli
 
 ## Opis
 
-Ten projekt implementuje funkcję automatycznego usuwania(przenoszenia do kosza) plików lub folderów w z góry określonym czasie. Użytkownik może wybrać, czy chce usunąć element na podstawie daty i godziny, lub wprowadzić liczbę dni, godzin i minut do usunięcia. Istnieje również opcja przerwania operacji usuwania.
+Ten projekt implementuje funkcję automatycznego usuwania (przenoszenia do kosza) plików lub folderów w czasie podanym przez użytkownika. Użytkownik może wybrać, czy chce usunąć element na podstawie daty i godziny, lub wprowadzić liczbę dni, godzin i minut do usunięcia (czasu liczonego od momentu wprowadzenia danych).
 #### Uwaga: Na chwilę obecną program musi być uruchomiony od momentu wpisania daty do momentu przeniesienia danego elementu.
 
 ## Użycie
@@ -38,7 +38,7 @@ The program enables automatic scheduling and deletion (moving to the trash) of f
 
 ## Description
 
-This project implements a feature for automatically deleting (moving to the trash) files or folders at predefined times. The user can choose whether to delete an item based on a date and time or enter the number of days, hours, and minutes until deletion. There is also an option to interrupt the deletion operation.
+This project implements a feature for automatically deleting (moving to the trash) files or folders at predefined times. The user can choose whether to delete an item based on a date and time or enter the number of days, hours, and minutes until deletion.
 #### Note: Currently, the program must be running from the moment the date is entered until the item is moved.
 
 ## Usage
